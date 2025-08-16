@@ -1,6 +1,10 @@
 # Beaver Notes - Dockerized
 
-<div style="text-center"><a href="https://github.com/Beaver-Notes/Beaver-Notes">Beaver Notes</a> is the a privacy-focused note-taking application.<div>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9486275a-4020-4355-809c-7e4512cf869f" alt="Beaver Logo" width="200">
+</div>
+
+[Beaver Notes](https://github.com/Beaver-Notes/Beaver-Notes) is the a privacy-focused note-taking application.
 
 This repository provides a **Dockerized version** of Beaver Notes, built on top of [LinuxServer.io’s baseimage-kasmvnc (Debian Bookworm)](https://github.com/linuxserver/docker-baseimage-kasmvnc).
 
