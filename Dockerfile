@@ -1,8 +1,8 @@
 FROM ghcr.io/linuxserver/baseimage-kasmvnc:debianbookworm
 
 ENV DEBIAN_FRONTEND=noninteractive
-ARG BEAVER_NOTES_VERSION=4.0.0
-ARG DOCKER_IMAGE_VERSION=unknown
+ARG BEAVER_NOTES_VERSION=4.1.0
+ARG DOCKER_IMAGE_VERSION=4.1.0
 
 # Install dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
